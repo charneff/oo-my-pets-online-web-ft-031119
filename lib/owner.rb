@@ -1,8 +1,10 @@
 class Owner
-  @@all = []
   
-  def self.all 
-    @@all 
+  def initialize(name)
+    @name = name 
+    owners = []
+    owners << name 
   end
+    
   # code goes here
 end
