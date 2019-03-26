@@ -7,6 +7,10 @@ class Owner
     @name = name 
     @species = "human"
     @pets = {
+      :fishes => [],
+      :dogs => [],
+      :cats => []
+    }
     @@all << self   
   end
     
