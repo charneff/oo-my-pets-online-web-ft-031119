@@ -1,6 +1,6 @@
 class Cat
   def initialize(name)
-    @cat = name 
+    @name = name 
   end
     # code goes here
 end
