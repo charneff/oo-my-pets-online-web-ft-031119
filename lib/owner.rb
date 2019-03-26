@@ -63,6 +63,7 @@ class Owner
         p.mood = "nervous"
       end
     end
+    self.
   end
   
   # code goes here
