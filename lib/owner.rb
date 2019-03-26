@@ -66,5 +66,9 @@ class Owner
     self.pets.clear 
   end
   
+  def list_pets
+    @pets 
+  end
+  
   # code goes here
 end
