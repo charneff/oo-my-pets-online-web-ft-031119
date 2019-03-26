@@ -12,5 +12,6 @@ class Owner
   
   def self.count
     @@all.count 
+  end
   # code goes here
 end
