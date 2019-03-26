@@ -63,7 +63,7 @@ class Owner
         p.mood = "nervous"
       end
     end
-    self.
+    self.pets.clear 
   end
   
   # code goes here
