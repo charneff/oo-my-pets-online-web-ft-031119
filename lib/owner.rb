@@ -6,7 +6,7 @@ class Owner
     @owners << name 
   end
     
-  def all
+  def self.all
     @owners
   end 
   # code goes here
