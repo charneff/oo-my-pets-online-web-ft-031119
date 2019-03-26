@@ -30,13 +30,7 @@ class Owner
     "I am a #{species}."
   end 
   
-  def pets 
-    pets = {
-      :fishes => [],
-      :dogs => [], 
-      :cats => []
-    }
-  end
+  
   
   # code goes here
 end
