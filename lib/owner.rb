@@ -64,8 +64,6 @@ class Owner
       end
     end
   end
-    
-  end
   
   # code goes here
 end
